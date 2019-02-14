@@ -1,25 +1,25 @@
 Youtube üzerinden istediğiniz videoların resimlerini yazı belgesi içerisindeki linklerden çekebileceksiniz.
 
-1) Yeni bir text belgesi oluşturun =>
-https://www.youtube.com/watch?v=YQHsXMglC9A
-https://www.youtube.com/watch?v=hLQl3WQQoQ0
-https://www.youtube.com/watch?v=DZW9SiFzR8s
+<b>1)</b> Yeni bir text belgesi oluşturun =><br>
+https://www.youtube.com/watch?v=YQHsXMglC9A<br>
+https://www.youtube.com/watch?v=hLQl3WQQoQ0<br>
+https://www.youtube.com/watch?v=DZW9SiFzR8s<br>
 
-2) Oluşturduğunuz belgeyi programa yükleyin.
+<b>2)</b> Oluşturduğunuz belgeyi programa yükleyin.
 
-3) Download Thumbnail butonu üzerinden video resimini istenilen konuma atabilirsiniz.
+<b>3)</b> Download Thumbnail butonu üzerinden video resimini istenilen konuma atabilirsiniz.
 
-English : 
+<b>English :</b> 
 
 You can extract the pictures of the videos you want via Youtube via the links in the text document.
 
-Example : 
+<b>Example :</b> 
 
-1) Creating txt document => 
-https://www.youtube.com/watch?v=YQHsXMglC9A
-https://www.youtube.com/watch?v=hLQl3WQQoQ0
-https://www.youtube.com/watch?v=DZW9SiFzR8s
+<b>1)</b> Creating txt document => <br>
+https://www.youtube.com/watch?v=YQHsXMglC9A<br>
+https://www.youtube.com/watch?v=hLQl3WQQoQ0<br>
+https://www.youtube.com/watch?v=DZW9SiFzR8s<br>
 
-2) You can upload document in my program.
+<b>2)</b> You can upload document in my program.
 
-3) Click "Download Thumbnail" !!!!
+<b>3)</b> Click "Download Thumbnail" !!!!
