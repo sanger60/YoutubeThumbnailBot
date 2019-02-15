@@ -72,6 +72,8 @@ namespace YoutubeThumbnailsBot
                             {
                                 progressBar1.Value = 0;
                             }
+                            
+                            
 
                             deger = 1;
                         }
@@ -110,7 +112,15 @@ namespace YoutubeThumbnailsBot
                             
                             client.DownloadFile(url, opf.SelectedPath + @"\" + fileName);
 
-                            progressBar1.Value = progressBar1.Value + 5;
+                                if(progressBar1.Value + 5 > 100)
+                                {
+                                    progressBar1.Value = 100;
+                                }
+                                else
+                                {
+                                    progressBar1.Value = progressBar1.Value + 5;
+
+                                }
                         }
                         deger++;
                     }
